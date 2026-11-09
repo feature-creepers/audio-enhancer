@@ -1,0 +1,5 @@
+torch>=2.0
+torchaudio>=2.0
+noisereduce>=3.0
+soundfile>=0.12
+librosa>=0.10

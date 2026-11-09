@@ -1,0 +1,3 @@
+# Optional: AudioSR for phase 2 (best on Python 3.10-3.11).
+-r requirements-ai.txt
+audiosr==0.0.7

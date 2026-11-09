@@ -1,0 +1,4 @@
+# Optional: DeepFilterNet3 for phase 1 (Python 3.8-3.11 on Windows).
+# Not available as prebuilt wheels on Python 3.12+ — use requirements-ai.txt instead.
+-r requirements-ai.txt
+deepfilternet==0.5.6
